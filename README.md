@@ -10,7 +10,6 @@ This section covers the basics of how to measure an algorithm's performance usin
 * **_Runtime Analysis_**
 * **_Recursive Algorithms_**
 
----
 
 ## Core Data Structures
 
@@ -25,8 +24,6 @@ This section introduces fundamental ways to store and organize data, including l
 * **_Linked Lists_**
 * **_Hash Tables_**
 
----
-
 ## Sorting and Selection Algorithms
 
 This part covers various algorithms for arranging data in a specific order, from simple methods to efficient divide-and-conquer strategies like Merge Sort and Quick Sort. It also addresses the selection problem, which focuses on finding the k-th smallest element efficiently.
@@ -38,7 +35,6 @@ This part covers various algorithms for arranging data in a specific order, from
 * **_Counting, Radix, & Bucket Sort_**
 * **_K-th Selection Algorithm_**
 
----
 
 ## Tree-Based Data Structures
 
@@ -52,7 +48,6 @@ This section explores tree data structures, which are used to represent hierarch
 * **_Binary Search Trees (BST)_**
 * **_Self-Balancing Trees (AVL & Red-Black)_**
 
----
 
 ## Graph Algorithms
 
